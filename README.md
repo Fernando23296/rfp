@@ -37,10 +37,11 @@ Se desea implementar un sistema de compra y venta, para tener un mejor control d
 ## FACTIBILIDAD (ANÁLISIS DE RIESGOS)
 
 ### ECONOMICA
- - El sistema costara ...
- - Se requiere comprar un servidor
- - Se requiere instalar internet en todas las sucursales
- - El ROI sera de ... en tantos años
+- El sistema costará Bs 12000.
+- Se requiere comprar una computadora. 
+- Se requiere comprar una impresora.
+- Se requiere comprar lector codigo de barras.
+
  
 ### TECNICA
  -
