@@ -28,7 +28,11 @@ Se desea implementar un sistema de compra y venta, para tener un mejor control d
 
  
 ### INTANGIBLE
- -
+- Permitirá un control mediante reportes acerca de los productos más vendidos.
+- Evitará realizar un doble proceso de registro en cuanto a  venta y el stock disponible
+- Permitirá un manejo más organizado de las ventas y el stock disponible.
+- Permitirá la realización de reportes cada vez que se requiera. 
+
 
 ## FACTIBILIDAD (ANÁLISIS DE RIESGOS)
 
