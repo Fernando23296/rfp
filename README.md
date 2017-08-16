@@ -13,6 +13,7 @@ De acuerdo con una entrevista realizada a la ferretería la Sra. maria, se ident
 
 ## PROPUESTA GENERAL DE SOLUCIÓN
 ###Implementar un sistema de compra y venta para la ferretería
+
 Se desea implementar un sistema de compra y venta, para tener un mejor control de las ventas realizadas, así también se requiere que el sistema pueda resolver el problema de devolución de productos, realice informes, reportes, que ayuden a un mejor seguimiento del negocio.
 
 
