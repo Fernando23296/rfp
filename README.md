@@ -53,7 +53,7 @@ Se desea implementar un sistema de compra y venta, para tener un mejor control d
 - Se capacitará al personal para su respectivo uso.
 
 ## LISTA DE REQUERIMIENTOS
-- Se requiere que el sistema maneja dos tipos de usuario,(administrador-cajero).
+- [Se requiere que el sistema maneja dos tipos de usuario,(administrador-cajero).] (https://github.com/Fernando23296/rfp/issues/2)
 - Se requiere reportes de las ventas y compras, a nivel mensual,trimestral, semestral y anual.
 - Se requiere que la factura cumpla con los requisitos legales
 - Se requiere que el sistema imprima los códigos de barra propios para cada producto.
