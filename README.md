@@ -21,8 +21,11 @@ Se desea implementar un sistema de compra y venta, para tener un mejor control d
 ## VALOR PAR EL NEGOCIO
 
 ### TANGIBLE
- - Evitara dobles pagos a proveedores disminuyendo perdidas.
- - Permitira pago oportuno a proveedores, evitando el pago de intereses.
+- Evitará que se vendan productos a un menor o mayor precio.
+- Permitirá un mayor control en el control del stock.
+- Permitirá realizar las ventas en un menor tiempo(ojo: dependiendo del usuario).
+- Permitirá pago oportuno a proveedores, evitando el pago de intereses.
+
  
 ### INTANGIBLE
  -
