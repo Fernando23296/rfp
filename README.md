@@ -45,12 +45,24 @@ Se desea implementar un sistema de compra y venta, para tener un mejor control d
  
 ### TECNICA
 - La dueña del establecimiento realizará una contratación externa con nuestros servicios puesto que dentro de su negocio no cuenta con un personal propio para el desarrollo de este sistema.
-- se realizará un documento legal de contratación, una vez establecidos los requerimientos y previo acuerdo de lo que se implementara, en el desarrollo del sistema. 
+- Se realizará un documento legal de contratación, una vez establecidos los requerimientos y previo acuerdo de lo que se implementara, en el desarrollo del sistema. 
 
 
 ### ORGANIZACIONAL
- -
- -
- 
+- Se hará que las operaciones de venta y compra de productos tenga un mayor control y facilidad al momento de registrarlos.
+- Se capacitará al personal para su respectivo uso.
+
+## LISTA DE REQUERIMIENTOS
+- Se requiere que el sistema maneja dos tipos de usuario,(administrador-cajero).
+- Se requiere reportes de las ventas y compras, a nivel mensual,trimestral, semestral y anual.
+- Se requiere que la factura cumpla con los requisitos legales
+- Se requiere que el sistema imprima los códigos de barra propios para cada producto.
+- Se requiere una capacitación para el personal que utilizara el sistema.
+- Se requiere el registro o retiro de proveedores.
+- Se requiere que el sistema sea seguro.
+- Se requiere que los pagos se puedan realizar con tarjeta o efectivo.
+- Se requiere que el sistema registre a sus mejores clientes, para poder tener un control y fidelización de los mismos.
+
+
 
 
