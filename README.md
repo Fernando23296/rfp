@@ -1,4 +1,4 @@
-# **TITULO DEL PROYECTO A SOLICITAR**
+# **SISTEMA DE COMPRA Y VENTA PARA FERRETERIA**
 
 ## PROBLEMA
 Describir el problema puntualmente. 3 parrafos
