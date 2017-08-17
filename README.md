@@ -54,11 +54,11 @@ Se desea implementar un sistema de compra y venta, para tener un mejor control d
 
 ## LISTA DE REQUERIMIENTOS
 - [Se requiere que el sistema maneja dos tipos de usuario,(administrador-cajero).](https://github.com/Fernando23296/rfp/issues/2)
-- (Se requiere reportes de las ventas y compras, a nivel mensual,trimestral, semestral y anual.)[https://github.com/Fernando23296/rfp/issues/3]
-- (Se requiere que la factura cumpla con los requisitos legales)[https://github.com/Fernando23296/rfp/issues/4]
-- (Se requiere que el sistema imprima los códigos de barra propios para cada producto.)[https://github.com/Fernando23296/rfp/issues/5]
-- (Se requiere una capacitación para el personal que utilizara el sistema.)[https://github.com/Fernando23296/rfp/issues/6]
-- (Se requiere el registro o retiro de proveedores.)[https://github.com/Fernando23296/rfp/issues/7] 
+- [Se requiere reportes de las ventas y compras, a nivel mensual,trimestral, semestral y anual.](https://github.com/Fernando23296/rfp/issues/3)
+- [Se requiere que la factura cumpla con los requisitos legales](https://github.com/Fernando23296/rfp/issues/4)
+- [Se requiere que el sistema imprima los códigos de barra propios para cada producto.](https://github.com/Fernando23296/rfp/issues/5)
+- [Se requiere una capacitación para el personal que utilizara el sistema.](https://github.com/Fernando23296/rfp/issues/6)
+- [Se requiere el registro o retiro de proveedores.](https://github.com/Fernando23296/rfp/issues/)
 - Se requiere que el sistema sea seguro.
 - Se requiere que los pagos se puedan realizar con tarjeta o efectivo.
 - Se requiere que el sistema registre a sus mejores clientes, para poder tener un control y fidelización de los mismos.
