@@ -66,7 +66,7 @@ IMPRESORA | <ul><li> Ciclo mensual superior a 500</li><li>WIFi</li><li>Monocrom�
 - [Se requiere que el sistema imprima los c처digos de barra propios para cada producto.](https://github.com/Fernando23296/rfp/issues/5)
 - [Se requiere una capacitaci처n para el personal que utilizara el sistema.](https://github.com/Fernando23296/rfp/issues/6)
 - [Se requiere el registro o retiro de proveedores.](https://github.com/Fernando23296/rfp/issues/)
-- [Se requiere c처digo de barras](https://github.com/Fernando23296/rfp/issues/10)
+- [Se requiere c처digo de barras.](https://github.com/Fernando23296/rfp/issues/10)
 - Se requiere que el sistema sea seguro.
 - Se requiere que los pagos se puedan realizar con tarjeta o efectivo.
 - Se requiere que el sistema registre a sus mejores clientes, para poder tener un control y fidelizaci처n de los mismos.
