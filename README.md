@@ -45,8 +45,7 @@ Se desea implementar un sistema de compra y venta, para tener un mejor control d
 
 ITEM         | DESCRIPCIÓN
 ------------ | ------------
-Computadora de escritorio | - Procesador DUAL CORE 3,5GHZ SÉPTIMA GENERACIÓN
- | - DISCO DURO DE 1000 GB 
+Computadora de escritorio | - Procesador DUAL CORE 3,5GHZ SÉPTIMA GENERACIÓN - DISCO DURO DE 1000 GB 
 ### TECNICA
 - La dueña del establecimiento realizará una contratación externa con nuestros servicios puesto que dentro de su negocio no cuenta con un personal propio para el desarrollo de este sistema.
 - Se realizará un documento legal de contratación, una vez establecidos los requerimientos y previo acuerdo de lo que se implementara, en el desarrollo del sistema. 
