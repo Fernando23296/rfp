@@ -1,7 +1,7 @@
 # **SISTEMA DE COMPRA Y VENTA PARA FERRETERIA**
 
 ## PROBLEMA 
-De acuerdo con una entrevista realizada a la ferretería la Sra. maria, se identificaron los siguientes problemas en los procedimientos.
+De acuerdo con una entrevista realizada a la ferretería la Sra. Maria, se identificaron los siguientes problemas en los procedimientos.
 
 - El control de las ventas es vulnerable a equivocaciones humanas puesto que se registra en un cuaderno, de manera manual, cada una de las ventas.
 - En ocasiones se apuntan ventas incorrectas de productos, pues no hay una verificación del producto que se vende.
@@ -18,7 +18,7 @@ Se desea implementar un sistema de compra y venta, para tener un mejor control d
 
 
 
-## VALOR PAR EL NEGOCIO
+## VALOR PARA EL NEGOCIO
 
 ### TANGIBLE
 - Evitará que se vendan productos a un menor o mayor precio.
@@ -38,10 +38,13 @@ Se desea implementar un sistema de compra y venta, para tener un mejor control d
 
 ### ECONOMICA
 - El sistema costará Bs 12000.
-- Se requiere comprar una computadora. 
+- Se requiere comprar una computadora.
 - Se requiere comprar una impresora.
 - Se requiere comprar lector codigo de barras.
+#### TABLA DE REQUERIMIENTOS (HARDWARE)
 
+ITEM         | DESCRIPCIÓN
+------------ | ------------
  
 ### TECNICA
 - La dueña del establecimiento realizará una contratación externa con nuestros servicios puesto que dentro de su negocio no cuenta con un personal propio para el desarrollo de este sistema.
