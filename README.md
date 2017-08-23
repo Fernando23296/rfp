@@ -57,7 +57,7 @@ IMPRESORA | <ul><li> Ciclo mensual superior a 500</li><li>WIFi</li><li>Monocrom�
 
 ### ORGANIZACIONAL
 - Se hará que las operaciones de venta y compra de productos tenga un mayor control y facilidad al momento de registrarlos.
-- Se capacitará al personal para su respectivo uso.
+- Se capacitará al personal para su respectivo uso, la omisión de la misma deriva en un uso poco eficiente del sistema.
 
 ## LISTA DE REQUERIMIENTOS
 - [Se requiere que el sistema maneja dos tipos de usuario,(administrador-cajero).](https://github.com/Fernando23296/rfp/issues/2)
