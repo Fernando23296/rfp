@@ -45,7 +45,9 @@ Se desea implementar un sistema de compra y venta, para tener un mejor control d
 
 ITEM         | DESCRIPCIÓN
 ------------ | ------------
-Computadora de escritorio |  <ul><li>Procesador DUAL CORE 3,5GHZ SÉPTIMA GENERACIÓN</li><li>DISCO DURO DE 1000 GB</li></ul>  
+Computadora de escritorio |  <ul><li>Procesador DUAL CORE 3,5GHZ Séptima Generación</li><li>Disco duro de 1000 GB</li><li>Memoria RAM de 8 GB</li><li>WiFi</li><li>Monitor</li></ul>
+Lector de Código de Barras | <ul><li>USB</li> <li>Plug and play</li></ul>  
+IMPRESORA | <ul><li> Ciclo mensual superior a 500</li><li>WIFi</li><li>Monocromático</li></ul>
 ### TECNICA
 - La dueña del establecimiento realizará una contratación externa con nuestros servicios puesto que dentro de su negocio no cuenta con un personal propio para el desarrollo de este sistema.
 - Se realizará un documento legal de contratación, una vez establecidos los requerimientos y previo acuerdo de lo que se implementara, en el desarrollo del sistema. 
