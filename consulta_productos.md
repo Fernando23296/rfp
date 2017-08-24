@@ -1,5 +1,5 @@
 # CONSULTA DE PRODUCTOS
-<<<<<<< HEAD
+
 ### Descripción
 El siguiente diagrama describe el procedimiento "Consulta de productos" donde se describen los procesos realizados entre: Cajero y Cliente.
 
