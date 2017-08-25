@@ -9,7 +9,7 @@
 
 4.- Los campos de contacto despliegan un editor (ya sea para añadir o editar informacion del proveedor).
 
-  4.1.- En caso de editar un campo de contacto se guardarán los cambios y se procedera a la opcion de contacto con proveedor.
+  - En caso de editar un campo de contacto se guardarán los cambios y se procedera a la opcion de contacto con proveedor.
   
 5.- Despues de seleccionar el contacto con el proveedor, el sistema guardara el proceso de contacto en un historial.
 
