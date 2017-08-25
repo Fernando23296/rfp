@@ -1,5 +1,6 @@
 
-# VENTA DE PRODUCTOS
+# VENTA Y CONSULTA DE PRODUCTOS
+
 1.- El cliente al llegar al establecimiento puede, solicitar una compra o hacer una consulta de productos,
 
 2.-  Si el cliente realiza una consulta de productos, entonces el cliente le dará información al usuario (cajero), información acerca del producto que busca, el cual consultara la base de datos del sistema, para verificar su disponibilidad y precio, una vez consultada la base de datos del sistema, informara al cliente acerca de la disponibilidad y el precio.
